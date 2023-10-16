@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sardor, .NET Software Engineer from Uzbekistan
+  Hi, I'm Nodir, .NET Software Engineer from Uzbekistan
   <br>
   <br>
   🔬 I'm currently studying at Tashkent University of IT
